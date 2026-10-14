@@ -1,0 +1,14 @@
+Input rows: 187,531
+After duplicate check: 187,531
+Rows with positive numeric price: 177,847
+Price conversion missing: 9,684
+Numeric price median: ₹7,800,000
+Potential duplicate rows excluding the Index: 122,292
+No rows dropped for possible duplicates without a stable listing ID.
+Unknown area units left missing, not guessed.
+Missing target prices excluded from modeling, retained in cleaned file.
+No missing input values globally imputed: imputation/scaling fit on train only.
+Training rows: 142,277
+Test rows: 35,570
+Preprocessed feature count: 99
+Prepared train/test shapes: (142277, 99), (35570, 99)
