@@ -1,0 +1,7 @@
+data/house_prices.csv
+data/house_prices_cleaned.csv
+data/*.joblib
+data/*.npz
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
