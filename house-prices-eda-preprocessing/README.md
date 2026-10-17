@@ -92,8 +92,8 @@ Dropped columns: `Plot Area` and `Dimensions` (completely empty) and `Index` (ad
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/Alhano1f/house-prices-eda-preprocessing.git
-cd house-prices-eda-preprocessing
+git clone https://github.com/Alhano1f/My-Work-in-SIC_AI.git
+cd My-Work-in-SIC_AI/house-prices-eda-preprocessing
 pip install -r requirements.txt
 
 # 2. Unzip the raw data into data/  (the script expects data/house_prices.csv)
