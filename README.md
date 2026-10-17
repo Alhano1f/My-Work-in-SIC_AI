@@ -8,11 +8,13 @@ Each project lives in its own folder with its own README, code, data and reports
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [House Prices — EDA & Preprocessing](house-prices-eda-preprocessing/) | Exploratory data analysis, data cleaning and leakage-aware preprocessing of 187K Indian real-estate listings. |
+| 2 | [Five Datasets — EDA, Audit & Corrective EDA](five-datasets-eda/) | EDA of five CSV datasets (Boston, Census, Coffee Shop, Sales, Student List) with a NumPy reproducibility audit and corrective EDA. |
 
 ## 🗂️ Repository structure
 
 ```
 My-Work-in-SIC_AI/
+├── five-datasets-eda/
 ├── house-prices-eda-preprocessing/
 └── README.md
 ```
